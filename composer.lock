@@ -7525,16 +7525,16 @@
         },
         {
             "name": "spatie/menu",
-            "version": "3.2.0",
+            "version": "3.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/menu.git",
-                "reference": "4241c69a7380c7c2c32677e0e995e698422a31aa"
+                "reference": "6b59c187e1800986bb354b849495e3cbbfff0f88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/menu/zipball/4241c69a7380c7c2c32677e0e995e698422a31aa",
-                "reference": "4241c69a7380c7c2c32677e0e995e698422a31aa",
+                "url": "https://api.github.com/repos/spatie/menu/zipball/6b59c187e1800986bb354b849495e3cbbfff0f88",
+                "reference": "6b59c187e1800986bb354b849495e3cbbfff0f88",
                 "shasum": ""
             },
             "require": {
@@ -7574,7 +7574,7 @@
             ],
             "support": {
                 "issues": "https://github.com/spatie/menu/issues",
-                "source": "https://github.com/spatie/menu/tree/3.2.0"
+                "source": "https://github.com/spatie/menu/tree/3.2.1"
             },
             "funding": [
                 {
@@ -7586,7 +7586,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2023-04-12T10:02:12+00:00"
+            "time": "2025-06-13T07:09:57+00:00"
         },
         {
             "name": "spatie/temporary-directory",
@@ -14327,12 +14327,12 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {},
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": "^8.3"
     },
-    "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
 }
